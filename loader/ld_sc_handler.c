@@ -9,6 +9,7 @@
 #include <assert.h>
 #include <fcntl.h>
 #include <inttypes.h>
+#include <linux/sched.h>
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/time.h>
